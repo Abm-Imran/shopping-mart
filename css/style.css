@@ -1,0 +1,19 @@
+.item-categories img {
+    width: 100px;
+}
+
+.categories-bg-bag {
+    background-color: #DA70D6;
+}
+
+.categories-bg-watch {
+    background-color: #FFA500;
+}
+
+.buy-now-btn {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
